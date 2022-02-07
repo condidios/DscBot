@@ -518,3 +518,4 @@ async def takimlar_update(ctx):
 
 
 client.run('OTM3NjAzOTk2NDM5NDM3MzIz.YfeJxA.yy-q5gjvv8Kyv-qLv5edNf4NN-M')
+  
